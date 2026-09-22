@@ -1,0 +1,70 @@
+==============================================
+ AI-BASED STUDENT STUDY PLANNER
+ AND PERFORMANCE PREDICTOR
+==============================================
+Enter student name: Keerthana
+Enter daily study hours: 3
+Enter attendance percentage: 90
+Enter assignment completion percentage: 90
+Enter previous average marks: 70
+
+----------------------------------------------
+ ENTER SUBJECT MARKS
+----------------------------------------------
+Enter Artificial Intelligence marks: 82
+Enter Data Structures marks: 45
+Enter Object-Oriented Programming marks: 76
+Enter Operating Systems marks: 48
+Enter Fundamentals of Internet of Things marks: 68
+
+==============================================
+ STUDENT PERFORMANCE REPORT
+==============================================
+Student Name    : Keerthana
+Average Marks   : 63.8
+Predicted Level : Average
+Stress Level    : Moderate
+
+----------------------------------------------
+ WEAK SUBJECT ANALYSIS
+----------------------------------------------
+Subjects needing improvement:
+- Data Structures
+- Operating Systems
+
+----------------------------------------------
+ STRONG SUBJECTS
+----------------------------------------------
+- Artificial Intelligence
+- Object-Oriented Programming
+
+==============================================
+ PERSONALIZED STUDY PLAN
+==============================================
+
+Focus more on weak subjects:
+- Data Structures
+- Operating Systems
+
+Daily Study Schedule:
+1 Hour   - Weak Subjects
+0.5 Hour - Other Subjects
+0.5 Hour - Revision
+
+==============================================
+ STRESS-FREE STUDY TIPS
+==============================================
+• Follow a fixed study timetable.
+• Take regular short breaks.
+• Practice weak subjects daily.
+
+==============================================
+ FINAL RESULT
+==============================================
+Student         : Keerthana
+Performance     : Average
+Average Marks   : 63.8
+Stress Level    : Moderate
+
+Personalized study plan generated successfully!
+==============================================
